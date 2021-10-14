@@ -1,0 +1,8 @@
+.section-data{
+    background-image: url('../img/bg.png');
+    background-color: rgba(0,0,0,1);
+    background-blend-mode:screen;
+}
+.english{
+    font-family: Cambria,Arial,Sans-serif;
+}
